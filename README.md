@@ -23,6 +23,7 @@ Building... ⚒️
 🖥️ Desktop <br>
 
 ![Thullo](https://github.com/Tzzent/thullo-app/assets/86677547/f1aa9911-e226-4ad3-8b64-6973a196285a)
+![Desk-Thullo](https://github.com/Tzzent/thullo-app/assets/86677547/7b006e1c-246b-4f1f-b72e-56fe155db872)
 
 <br>
 📲 Mobile <br><br>
